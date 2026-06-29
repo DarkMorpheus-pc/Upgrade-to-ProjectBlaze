@@ -1,6 +1,8 @@
 
 # Upgrade to ProjectBlaze 🚀
 
+https://t.me/blaze_galaxy_solarevolution
+
 An automated, user-friendly Android flashing utility designed seamlessly for the BlazeOS desktop ecosystem. This tool bridges the gap between your desktop and mobile experience, allowing users to transition their supported Android devices directly to **ProjectBlaze ROM** with just a few clicks.
 
 Built using **Python**, **PyQt6**, and a robust modular background engine, it handles device detection, recovery image sourcing, safe downloading, and automated execution of `adb` and `fastboot` routines.
